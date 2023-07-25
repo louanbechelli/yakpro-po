@@ -1,3 +1,7 @@
+// Instalação:
+// Necessário clonar o PHP-Parser dentro do diretorio do yakpro
+git clone https://github.com/nikic/PHP-Parser.git --branch 4.x
+
 // No terminal digitar:
 $ php yakpro-po.php pasta_do_projeto -o pasta_de_saida
 
