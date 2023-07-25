@@ -1,0 +1,5 @@
+// No terminal digitar:
+$ php yakpro-po.php pasta_do_projeto -o pasta_de_saida
+
+// Exemplo:
+$ php yakpro-po.php ofuscar -o ofuscado
